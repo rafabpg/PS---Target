@@ -1,2 +1,2 @@
 # PS---Target
-# Foi utilizado a linguagem Javascript e as respostas estão comentadas# PS---Target
+# Foi utilizado a linguagem Javascript e as respostas estão comentadas
